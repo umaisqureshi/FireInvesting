@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8305700245",
+    "project_id": "fireinvesting-8a7a8",
+    "storage_bucket": "fireinvesting-8a7a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8305700245:android:34c10c79ed6f30bdbe9a9c",
+        "android_client_info": {
+          "package_name": "com.utechware.fireinvesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8305700245-bvcdfehlhuetuefreoh319n4hudlg7fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.fireinvesting",
+            "certificate_hash": "58cf4b2560e6d7b966c6213ece2ebd5e6751f5a5"
+          }
+        },
+        {
+          "client_id": "8305700245-plokei3nnlh8t20bumtrt0n3r4q8e34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB39k4gLL6gUzL9WERM2WknbeaS8LLhcN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8305700245-plokei3nnlh8t20bumtrt0n3r4q8e34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
